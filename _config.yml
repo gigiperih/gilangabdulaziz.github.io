@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Gilang Abdul Aziz"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "https://i.ibb.co/d7MQ9Pq/Screen-Shot-2021-02-18-at-23-24-49.png"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
