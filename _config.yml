@@ -62,9 +62,6 @@ author:
   avatar : "https://i.ibb.co/DG4fd2d/Screen-Shot-2021-02-18-at-23-28-15.png"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/ltheordinary"
